@@ -30,7 +30,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="동국대학교 경주캠퍼스"
+                android:text="동국대학교"
                 android:textStyle="bold"
                 android:textSize="27dp"
                 android:layout_margin="3dp"
